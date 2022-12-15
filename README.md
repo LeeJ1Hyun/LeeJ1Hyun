@@ -1,21 +1,22 @@
-> profile
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!💻&fontSize=40&fontAlign=80&fontAlignY=40)
 
-<a href="https://velog.io/@nextlinehappy516" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+## Contact me
+- ✉️ nextlinehappy516@gmail.com
+- 🔗 [링크드인(Linkedin)](https://www.linkedin.com/in/%EC%A7%80%ED%98%84-%EC%9D%B4-9a124424a/)
+- ✏️ [블로그(blog)](https://louis-devlog.tistory.com/)
 
-<br/>
+<br>
 
-> skills
+## About me
+#### Skills
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-4479A1?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<br/>  
-<br/>
+#### Github status
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeeJ1Hyun&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJ1Hyun&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
-> github status
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJ1Hyun&show_icons=true&theme=vue)
-
-<br/>
-
-> Lang
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJ1Hyun&layout=compact&theme=vue)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
